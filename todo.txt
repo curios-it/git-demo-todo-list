@@ -1,1 +1,2 @@
 Initial To-Do List
+- Learn Git basics
